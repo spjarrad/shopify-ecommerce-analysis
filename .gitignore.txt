@@ -1,0 +1,19 @@
+# Private source data
+data/*.csv
+data/*.xlsx
+
+# Power BI reporting exports
+notebooks/refund_powerbi.csv
+notebooks/customer_powerbi.csv
+notebooks/monthly_powerbi.csv
+notebooks/product_powerbi.csv
+
+# Power BI files containing underlying company data
+*.pbix
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.pyc
