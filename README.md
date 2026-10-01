@@ -11,20 +11,28 @@ The final deliverables include a reproducible Jupyter notebook and a five-page P
 
 ## Business Questions
 
-- **Practical question:** "Did the return-policy change work? Did refunds go down?"
-- **Analytical question:** "Did refund behavior change following the May 2026 return-policy update?"
+- **Practical question #1:** "Did the return-policy change work? Did refunds go down?"
+- **Analytical equivalent:** "Did refund behavior change following the May 2026 return-policy update?"
+  
+  ---
 
-- **Practical question:** "Which product lines sell the best? Which gets returned the most?"
-- **Analytical question:** "Which major product families generate the strongest sales performance and refund activity?"
+- **Practical question #2:** "Which product lines sell the best? Which gets returned the most?"
+- **Analytical equivalent:** "Which major product families generate the strongest sales performance and refund activity?"
+  
+  ---
 
-- **Practical question:** "How's the company doing this year?"
-- **Analytical question:** "How did sales, order volume, and discounting change over the analysis period?"
+- **Practical question #3:** "How's the company doing this year?"
+- **Analytical equivalent:** "How did sales, order volume, and discounting change over the analysis period?"
 
-- **Practical question:** "Do we get more new or repeat customers? Who spends more?"
-- **Analytical question:** "How do one-time and repeat customers differ in purchasing behavior and value?"
+  ---
 
-- **Practical question:** "Where are our customers from?"
-- **Analytical question:** "Are there geographic patterns in customer purchasing?"
+- **Practical question #4:** "Do we get more new or repeat customers? Who spends more?"
+- **Analytical equivalent:** "How do one-time and repeat customers differ in purchasing behavior and value?"
+
+  ---
+
+- **Practical question #5:** "Where are our customers from?"
+- **Analytical equivalent:** "Are there geographic patterns in customer purchasing?"
 
 
 ## Tools Used
