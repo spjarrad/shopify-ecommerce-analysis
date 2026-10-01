@@ -1,4 +1,4 @@
-# Shopify E-Commerce Analysis
+# Company Shopify Store E-Commerce Analysis
 ### Python, Pandas & Power BI
 
 ## Project Overview
