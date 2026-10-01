@@ -92,7 +92,7 @@ Public screenshots have been anonymized and redacted to preserve the report desi
 
 ### Sales & Discounting
 
-![Sales and Discounting](images/sales_discounting.png)
+![Sales and Discounting](images/sales_discounts.png)
 
 ### Product Performance
 
